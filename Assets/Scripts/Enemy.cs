@@ -8,6 +8,6 @@ public class Enemy : MonoBehaviour
 
     public virtual void DoAttack()
     {
-        //m_Health -= 10;
+        //Health -= 10;
     }
 }
