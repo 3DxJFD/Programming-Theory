@@ -5,7 +5,7 @@ public class Goblin : Enemy
         DoAttack();
     }
 
-    public override void DoAttack()
+    public override void DoAttack() // INHERITANCE
     {
         // health -= 15; 
     }
