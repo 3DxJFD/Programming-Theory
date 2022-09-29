@@ -10,10 +10,8 @@ public class Zombie : Enemy
         DoAttack();
     }
 
-    public override void DoAttack()
+    public override void DoAttack() //INHERITANCE
     {
-
-        
         // health -= 15; //do Eat Brain Attack
     }
 }
